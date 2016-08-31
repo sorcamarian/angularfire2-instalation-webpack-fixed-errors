@@ -3,7 +3,7 @@
 import { addProviders, async, inject } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
-describe('App: Angularfire2WebpackErrors', () => {
+describe('App: Angularfire2Webpackerrors-solved', () => {
   beforeEach(() => {
     addProviders([AppComponent]);
   });

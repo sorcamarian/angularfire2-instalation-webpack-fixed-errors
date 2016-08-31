@@ -1,4 +1,4 @@
-export class Angularfire2WebpackErrorsPage {
+export class Angularfire2Webpackerrors-solvedPage {
   navigateTo() {
     return browser.get('/');
   }
